@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="104fd3a9-978a-46aa-a701-cf4226aabae9" name="Default Changelist" comment="" />
+    <list default="true" id="104fd3a9-978a-46aa-a701-cf4226aabae9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/.idea/Piscine v3.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Ajout_Produit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Ajout_Utilisateur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Ajout_Vendeur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Base.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/FondEcrans/fd.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/FondEcrans/fddeca.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/FondEcrans/zarashop-68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Photos/ZARA Rectangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Photos/ali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Photos/deca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Photos/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Photos/panier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Photos/panier_changer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Photos/souk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/AddidasContinental.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/DeuxFrere.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/Naruto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/Palme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/SteveJob.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/Ttoublie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/VesteSharrienne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/balle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/cabanemagique.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/eminem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/jeansvert.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/livresJolie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/miserable.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/pullbleu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/pullrouge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/raquettejaune.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/raquetterouge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Images/Produits/skillet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/Projet piscine 2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/barre_recherche.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/changer_donnees_utilisateurs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/connexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/connexion_check.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/creer_compte_utilisateur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/creer_compte_vendeur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/creer_produit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/deconnexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/delete_produit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/delete_produit_vendeur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/delete_vendeur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/donnees_utilisateur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/gestion_vendeur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/livres.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/musiques.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/navigation_bar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/page_accueil_html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/paiement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/panier.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/redirection_connection_administrateur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/redirection_connection_utilisateur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/redirection_connection_vendeur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/remplir_panier.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/sportsetloisirs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/supprimer_element_panier.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/supprimer_produit_vendeur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/traitement_paiment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/ventesflash.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piscine v7.0/vetements.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +80,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,7 +90,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="7" />
     <option name="y" value="39" />
     <option name="width" value="1266" />
@@ -30,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -41,7 +113,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -75,6 +146,7 @@
       <updated>1556724597000</updated>
       <workItem from="1556724598505" duration="924000" />
       <workItem from="1557068880212" duration="514000" />
+      <workItem from="1557080971846" duration="558000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1556724727323</created>
@@ -101,12 +173,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1438000" />
+    <option name="totallyTimeSpent" value="1996000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="7" y="39" width="1266" height="745" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1453958" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1495098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -118,7 +190,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49919224" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49919224" visible="true" weight="0.36753446" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50080776" side_tool="true" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -177,11 +249,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Version3 Js/Php" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
   </component>
 </project>
