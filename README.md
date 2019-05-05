@@ -1,2 +1,2 @@
 # ECE-E-Commerce
-E-commerce website similar to Amazon
+E-commerce website similar to baba
