@@ -1,0 +1,99 @@
+body {
+ padding: 0px;
+ margin: 0px;
+}
+
+td b{
+    border: 1px;
+    margin-left: 80px;
+}
+
+#payement{
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 60%;
+}
+
+#prix{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#paul{
+    font-weight:bold;
+    font-family: Verdana;
+
+}
+
+#titreCentrer{
+    color: #002255;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    border: 5px solid black;
+    border-radius: 100px;
+    border-color: #002255;
+    padding: 20px;
+    margin: 20px;
+}
+
+.case{
+    background-color: white;
+}
+
+/*--- navigation bar ---*/
+.navbar {
+ background:#002255;
+}
+
+.nav-link, .navbar-brand {
+ color: #fff;
+ cursor: pointer;
+}
+
+.nav-link {
+ margin-right: 1em !important;
+}
+
+.nav-link:hover {
+    color: #002255;
+    background-color: white;
+    border-radius: 75px;
+}
+
+.navbar-collapse {
+ justify-content: flex-end;
+}
+
+.page-footer {
+ background-color: #222;
+ color: #ccc;
+ padding: 20px 0 30px;
+}
+
+.footer-copyright {
+ color: #666;
+}
+
+#dropdownMenuButton{
+    background:#002255;
+    border-color:#002255;
+}
+
+#Centrer{
+    margin-top:5%;
+    margin-left: 15%;
+}
+
+#tab{
+    margin-top:10px;
+    margin-left: 15%;
+}
+
+.infoNecessaire{
+    color: red;
+}
+
+.contain{
+     border:2px solid black;
+}
